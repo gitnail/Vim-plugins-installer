@@ -1,6 +1,7 @@
 # Vim plugins installer.
 
 ## Installation:
+* Clone repo to your local machine.
 * $sudo python3 plugin_install.py
 
 ## Plugins:
