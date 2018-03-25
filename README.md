@@ -1,4 +1,8 @@
 # Vim plugins installer.
+
+## Installation:
+* $sudo python3 plugin_install.py
+
 ## Plugins:
 * Plugin VundleVim
 * Plugin YouCompleteMe
